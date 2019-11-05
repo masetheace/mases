@@ -253,9 +253,4 @@ class Calculator implements ActionListener {
                 t.setText(t.getText() + s.charAt(i));
         }
     }
-
-    public static void main(String[] args)
-    {
-        new Calculator();
-    }
 }
